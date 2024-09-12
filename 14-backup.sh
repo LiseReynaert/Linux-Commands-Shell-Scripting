@@ -67,4 +67,3 @@ tar -czvf $backupFileName ${toBackup[@]}
 
 # [TASK 13]
 mv $backupFileName $destinationDirectory
-# Congratulations! You completed the final project for this course!
